@@ -1,4 +1,7 @@
 Project Name: Hand Gesture Recognition and Classification System
+
+https://github.com/yigitgulem/Ok-Nok-Stop/assets/139170950/a7ca846a-b18d-4d16-9b7d-2ac5ed2207e8
+
 This GitHub repository contains files related to a system that detects and classifies hand gestures using a camera. The system captures hand gestures in real-time using OpenCV and MediaPipe libraries and classifies these gestures into different categories.
 
 Files and Folders:
